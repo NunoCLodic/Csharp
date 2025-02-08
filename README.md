@@ -1,2 +1,2 @@
 # Ccharp
- revisao em programacao c charp em visual studio
+ revisao em programacao c sharp em visual studio
