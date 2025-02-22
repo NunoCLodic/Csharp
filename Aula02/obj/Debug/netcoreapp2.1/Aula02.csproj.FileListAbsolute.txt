@@ -1,0 +1,4 @@
+C:\Users\Administrador\OneDrive\Engenharia Informatica\Plano de Estudo Revisao\Ccharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.csprojAssemblyReference.cache
+C:\Users\Administrador\OneDrive\Engenharia Informatica\Plano de Estudo Revisao\Ccharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Engenharia Informatica\Plano de Estudo Revisao\Ccharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\Engenharia Informatica\Plano de Estudo Revisao\Ccharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.AssemblyInfo.cs
