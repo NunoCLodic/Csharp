@@ -2,3 +2,17 @@ C:\Users\Administrador\OneDrive\Engenharia Informatica\Plano de Estudo Revisao\C
 C:\Users\Administrador\OneDrive\Engenharia Informatica\Plano de Estudo Revisao\Ccharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\OneDrive\Engenharia Informatica\Plano de Estudo Revisao\Ccharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.AssemblyInfoInputs.cache
 C:\Users\Administrador\OneDrive\Engenharia Informatica\Plano de Estudo Revisao\Ccharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.AssemblyInfo.cs
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.csproj.AssemblyReference.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.AssemblyInfoInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.AssemblyInfo.cs
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.csproj.CoreCompileInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.sourcelink.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\bin\Debug\netcoreapp2.1\Aula02.deps.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\bin\Debug\netcoreapp2.1\Aula02.runtimeconfig.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\bin\Debug\netcoreapp2.1\Aula02.runtimeconfig.dev.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\bin\Debug\netcoreapp2.1\Aula02.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\bin\Debug\netcoreapp2.1\Aula02.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula02\obj\Debug\netcoreapp2.1\Aula02.genruntimeconfig.cache

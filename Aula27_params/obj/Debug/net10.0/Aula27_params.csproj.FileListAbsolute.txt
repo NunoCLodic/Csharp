@@ -1,0 +1,15 @@
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\bin\Debug\net10.0\Aula27_params.exe
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\bin\Debug\net10.0\Aula27_params.deps.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\bin\Debug\net10.0\Aula27_params.runtimeconfig.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\bin\Debug\net10.0\Aula27_params.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\bin\Debug\net10.0\Aula27_params.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\Aula27_params.GeneratedMSBuildEditorConfig.editorconfig
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\Aula27_params.AssemblyInfoInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\Aula27_params.AssemblyInfo.cs
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\Aula27_params.csproj.CoreCompileInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\Aula27_params.sourcelink.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\Aula27_params.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\refint\Aula27_params.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\Aula27_params.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\Aula27_params.genruntimeconfig.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula27_params\obj\Debug\net10.0\ref\Aula27_params.dll

@@ -1,0 +1,15 @@
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\bin\Debug\net10.0\Aula26_ArgOut.exe
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\bin\Debug\net10.0\Aula26_ArgOut.deps.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\bin\Debug\net10.0\Aula26_ArgOut.runtimeconfig.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\bin\Debug\net10.0\Aula26_ArgOut.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\bin\Debug\net10.0\Aula26_ArgOut.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\Aula26_ArgOut.GeneratedMSBuildEditorConfig.editorconfig
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\Aula26_ArgOut.AssemblyInfoInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\Aula26_ArgOut.AssemblyInfo.cs
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\Aula26_ArgOut.csproj.CoreCompileInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\Aula26_ArgOut.sourcelink.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\Aula26_ArgOut.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\refint\Aula26_ArgOut.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\Aula26_ArgOut.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\Aula26_ArgOut.genruntimeconfig.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula26_ArgOut\obj\Debug\net10.0\ref\Aula26_ArgOut.dll

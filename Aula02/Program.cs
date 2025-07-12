@@ -7,7 +7,7 @@ namespace Aula02
         static void Main(string[] args)
         {
             Console.WriteLine("Plano de estudo");
-            Console.Write(arg.GetValues(0));
+            Console.WriteLine(args[0]);
             }
             
     }

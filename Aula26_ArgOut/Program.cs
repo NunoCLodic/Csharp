@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 class Aula24
 { 
@@ -21,7 +21,7 @@ class Aula24
 
 
     }
-    static int divide(int dividendo, int divisor, out int resto)
+    static int divide(int dividendo, int divisor, out int resto)// o out é um argumento de saida
     {
         int quociente = dividendo / divisor;
         resto = dividendo % divisor;
