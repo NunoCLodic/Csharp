@@ -29,13 +29,16 @@ class Aula27
         int soma = 0;
         int resultado = 0;
 
-        if(numeros.Length == 0)
+        if (numeros.Length == 0)
         {
             Console.WriteLine("Nenhum número foi passado.");
-        }else if(numeros.Length == 1)
+        }
+        else if (numeros.Length == 1)
         {
             Console.WriteLine("Valor insuficiente para soma: " + numeros[0]);
-        }else{
+        }
+        else
+        {
             /*quando precisar de controle total sobre os índices ou manipulação da*/
             /*for (int i = 0; i < numeros.Length; i++)
             {
@@ -44,12 +47,14 @@ class Aula27
             Console.WriteLine("(com for) A soma é: " + soma);*/
 
             /*quando apenas precisar iterar pelos elementos da coleção de forma limpa e direta.*/
-            foreach (int numero in numeros) 
+            foreach (int numero in numeros)
             {
-            resultado += numero;
+                resultado += numero;
             }
             Console.WriteLine("(com foreach) A soma é: " + resultado);
         }
-  
+
     }
 }
+/*DOTNET BUILD - NOVA FORMA DE COMPILAR O PROJETO*/
+/*DOTNET RUN - NOVA FORMA DE EXECUTAR O PROJETO*/
