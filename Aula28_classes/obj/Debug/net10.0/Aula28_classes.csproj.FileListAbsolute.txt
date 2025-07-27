@@ -1,0 +1,15 @@
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\Aula28_classes.GeneratedMSBuildEditorConfig.editorconfig
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\Aula28_classes.AssemblyInfoInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\Aula28_classes.AssemblyInfo.cs
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\Aula28_classes.csproj.CoreCompileInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\Aula28_classes.sourcelink.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\bin\Debug\net10.0\Aula28_classes.exe
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\bin\Debug\net10.0\Aula28_classes.deps.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\bin\Debug\net10.0\Aula28_classes.runtimeconfig.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\bin\Debug\net10.0\Aula28_classes.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\bin\Debug\net10.0\Aula28_classes.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\Aula28_classes.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\refint\Aula28_classes.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\Aula28_classes.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\Aula28_classes.genruntimeconfig.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula28_classes\obj\Debug\net10.0\ref\Aula28_classes.dll
