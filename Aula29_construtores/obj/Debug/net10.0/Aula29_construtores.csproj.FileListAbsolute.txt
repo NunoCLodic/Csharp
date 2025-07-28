@@ -1,0 +1,15 @@
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\bin\Debug\net10.0\Aula29_construtores.exe
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\bin\Debug\net10.0\Aula29_construtores.deps.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\bin\Debug\net10.0\Aula29_construtores.runtimeconfig.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\bin\Debug\net10.0\Aula29_construtores.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\bin\Debug\net10.0\Aula29_construtores.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\Aula29_construtores.GeneratedMSBuildEditorConfig.editorconfig
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\Aula29_construtores.AssemblyInfoInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\Aula29_construtores.AssemblyInfo.cs
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\Aula29_construtores.csproj.CoreCompileInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\Aula29_construtores.sourcelink.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\Aula29_construtores.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\refint\Aula29_construtores.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\Aula29_construtores.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\Aula29_construtores.genruntimeconfig.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula29_construtores\obj\Debug\net10.0\ref\Aula29_construtores.dll

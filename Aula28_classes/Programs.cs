@@ -17,6 +17,7 @@ class Programs
         j1.energia = 50;
 
         Console.WriteLine("Energia do jogador 1: {0}", j1.energia);
+        Console.WriteLine("Energia do jogador 2: {0}", j2.energia);
     }
 
 }
