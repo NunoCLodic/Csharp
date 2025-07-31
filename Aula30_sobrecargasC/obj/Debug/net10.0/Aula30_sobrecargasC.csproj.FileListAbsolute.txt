@@ -1,0 +1,15 @@
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\Aula30_sobrecargasC.GeneratedMSBuildEditorConfig.editorconfig
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\Aula30_sobrecargasC.AssemblyInfoInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\Aula30_sobrecargasC.AssemblyInfo.cs
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\Aula30_sobrecargasC.csproj.CoreCompileInputs.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\Aula30_sobrecargasC.sourcelink.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\bin\Debug\net10.0\Aula30_sobrecargasC.exe
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\bin\Debug\net10.0\Aula30_sobrecargasC.deps.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\bin\Debug\net10.0\Aula30_sobrecargasC.runtimeconfig.json
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\bin\Debug\net10.0\Aula30_sobrecargasC.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\bin\Debug\net10.0\Aula30_sobrecargasC.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\Aula30_sobrecargasC.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\refint\Aula30_sobrecargasC.dll
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\Aula30_sobrecargasC.pdb
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\Aula30_sobrecargasC.genruntimeconfig.cache
+P:\Pessoais\Revisao_Ipg\Csharp\Aula30_sobrecargasC\obj\Debug\net10.0\ref\Aula30_sobrecargasC.dll

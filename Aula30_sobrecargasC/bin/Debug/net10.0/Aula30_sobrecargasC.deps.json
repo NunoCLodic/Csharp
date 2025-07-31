@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Aula30_sobrecargasC/1.0.0": {
+        "runtime": {
+          "Aula30_sobrecargasC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula30_sobrecargasC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
